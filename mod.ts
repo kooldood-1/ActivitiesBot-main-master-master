@@ -154,7 +154,8 @@ slash.handle("activity", (d) => {
 
 slash.handle("invite", (d) => {
   return d.reply(
-    `• [Click here to invite.](<https://discord.com/api/oauth2/authorize?client_id=819835984388030464&permissions=1&scope=applications.commands%20bot>)\n` +
+    `• [Click here to invite.](<https://discord.com/api/oauth2/authorize?client_id=952335780867604551&permissions=1&scope=applications.commands%20bot>)\n` +
+     `• Your boi King.  https://discord.gg/fdz98P7n`,
     { ephemeral: true },
   );
 });
