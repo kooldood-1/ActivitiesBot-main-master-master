@@ -65,3 +65,5 @@
 | 832025857525678142 | Discord Game 22(Application deleted) | 0 | Unlimited |
 | 832025886030168105 | Discord Game 23(Application deleted) | 0 | Unlimited |
 | 832025928938946590 | Discord Game 24(Application deleted) | 0 | 100 |
+
+BOT IS ON TOP.GG GO GET IT
